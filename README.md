@@ -8,7 +8,7 @@ CSE-312_GroupProject
  * Debugging , Testing and Documenting
  * Minimum Viable Project and Finishing Touches
 
-Group Members:
+Group Members: 
 "type your individual progress below your name to have a record of your progress."
   * 2019BCS040   - Deshaboina Yashwanth(Team Leader)
   * 2019BCS011   - Chandrima M Jayaram
