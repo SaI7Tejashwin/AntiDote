@@ -2,11 +2,11 @@
 CSE-312_GroupProject
 
 ## Plan
- Learn Unreal Engine on or before last week of August
- Start the Design with some written description describing it in a detailed way
- Separation of Tasks and Collaboration
- Debugging , Testing and Documenting
- Minimum Viable Project and Finishing Touches
+ * Learn Unreal Engine on or before last week of August
+ * Start the Design with some written description describing it in a detailed way
+ * Separation of Tasks and Collaboration
+ * Debugging , Testing and Documenting
+ * Minimum Viable Project and Finishing Touches
 
 Group Members:
   * 2019BCS040   - Deshaboina Yashwanth(Team Leader)
