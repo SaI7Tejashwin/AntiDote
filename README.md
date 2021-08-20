@@ -8,5 +8,5 @@ Group Members:
   * 2019BCS012   - Abhijith S Babu
   * 2019BCS026   - Lakshin Kumar R 
   * 2019BCS028   - Srivatsan H
-  * 2019BCS044   - Alaka Jayan Chorapetty
+  * 2019BCS044   - Alaka Jayan Chorappetty
   * 2019BCS0106  - E. Sai Tejashwin
