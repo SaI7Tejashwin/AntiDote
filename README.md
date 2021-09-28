@@ -1,7 +1,7 @@
 # The AntiDote
 CSE-312_GroupProject
 
-#Before cloning the project: 
+## Before cloning the project: 
 install git lfs in your systems
 so that if you make any commits and want to push it remotely, type
 ```git add lfs``` 
@@ -10,7 +10,7 @@ then add
 ``` git add .gitattributes ```
 to track all the large files
 
-Group Members: 
+### Group Members: 
 
   * 2019BCS040   - Deshaboina Yashwanth(Team Leader)
   * 2019BCS011   - Chandrima M Jayaram
