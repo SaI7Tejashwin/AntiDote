@@ -21,7 +21,7 @@ Some of the features developed/crafted in the final build include:
  ![Alt Text](https://media.giphy.com/media/9Yfpg21FOO7A4EFLWi/giphy-downsized-large.gif)
  ### Player HP decay and Game Over Pop-Up
  ![Alt Text](https://media.giphy.com/media/r68VyMv5UBa2F1uC1X/giphy-downsized-large.gif)
- ### Objectuve System and Success Pop-Up
+ ### Objective System and Success Pop-Up
  ![Alt Text](https://media.giphy.com/media/t8sBo59AWEO7IqkAAy/giphy.gif)
 ## Weapon Mechanics
  ### Rifle Reload and ADS (Aiming Down Sights)
